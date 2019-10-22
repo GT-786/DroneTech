@@ -18,4 +18,8 @@
 * [Detect Up Down Motion Of Pluto X](detect-up-down-motion-of-pluto-x.md)
 * [Use Of Timer To Turn 1 Motor On And Off](use-of-timer-to-turn-1-motor-on-and-off.md)
 * [Use Of Timer To Turn All Motor On And Off](use-of-timer-to-turn-all-motor-on-and-off.md)
+* [Too See The Barometer Readings](too-see-the-barometer-readings.md)
+* [Throw And Go](throw-and-go.md)
+* [exp baro graph](exp-baro-graph.md)
+* [Blow And Take Off](blow-and-take-off.md)
 

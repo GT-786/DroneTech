@@ -1,4 +1,6 @@
 # Block Diagram
 
-//diagram will come here
+![General Block Diagram For Drone](.gitbook/assets/block-diagram.jpg)
+
+
 

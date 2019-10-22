@@ -20,6 +20,6 @@
 * [Use Of Timer To Turn All Motor On And Off](use-of-timer-to-turn-all-motor-on-and-off.md)
 * [Too See The Barometer Readings](too-see-the-barometer-readings.md)
 * [Throw And Go](throw-and-go.md)
-* [exp baro graph](exp-baro-graph.md)
+* [Too See The Barometer Readings And Graph For Barometer](exp-baro-graph.md)
 * [Blow And Take Off](blow-and-take-off.md)
 

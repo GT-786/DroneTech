@@ -1,4 +1,4 @@
-# exp baro graph
+# Too See The Barometer Readings And Graph For Barometer
 
 ```text
 
@@ -60,10 +60,9 @@ void onLoopFinish()
 	LED.flightStatus(ACTIVATE);
 
 }
-
-
-
-
-
 ```
+
+![Graph Readings](.gitbook/assets/baro-graph.png)
+
+![Barometer Readings](.gitbook/assets/baro-readings.png)
 

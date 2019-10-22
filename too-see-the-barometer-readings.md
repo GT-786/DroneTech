@@ -49,7 +49,7 @@ void onLoopFinish()
 }
 ```
 
+![With External Blow](.gitbook/assets/capture_exp3_with-external-blow.png)
 
-
-
+![Without External Blow](.gitbook/assets/capture_exp3_without-external-blow.PNG)
 

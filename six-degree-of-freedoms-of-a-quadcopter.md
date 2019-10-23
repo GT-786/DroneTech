@@ -1,6 +1,10 @@
 # Six Degree Of Freedoms Of A Quadcopter
 
-//INSERT DIAGRAM
+![](.gitbook/assets/whatsapp-image-2019-10-23-at-11.50.27-pm-1.jpeg)
+
+{% hint style="info" %}
+Tau is Angular Direction Force
+{% endhint %}
 
 UP:- M1 M2 M3 M4 ⬆
 

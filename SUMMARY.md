@@ -36,6 +36,6 @@
 * [Installation Of ROS](installation-of-ros.md)
 * [ROS Master](ros-master.md)
 * [ROS Packages](ros-packages.md)
-* [Catkin Build System](catkin-build-system/README.md)
-  * [FewCommands For ROS](catkin-build-system/xyz.md)
+* [Catkin Build System](catkin-build-system.md)
+* [Few Commands For ROS](few-commands-for-ros.md)
 
